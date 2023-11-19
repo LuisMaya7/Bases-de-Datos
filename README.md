@@ -65,7 +65,7 @@ Saludos, Luis Felipe Maya.
 
 
 
-####Parte 1: Diseñando la DB####
+# Parte 1: Diseñando la DB
 
 ¡Hola a todos!
 

@@ -1,4 +1,4 @@
-#### Diseño de un diagrama ER ####
+# Diseño de un diagrama ER
 
 ¡Hola a todos!
 
